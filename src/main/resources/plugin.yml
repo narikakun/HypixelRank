@@ -1,0 +1,7 @@
+name: HypixelRank
+version: ${project.version}
+main: io.github.narikakun.mc.hypixelrank.hypixelrank.Hypixelrank
+api-version: 1.16
+authors: [ narikakun ]
+description: Hypixelのランク表示等を変更するプラグインです。
+website: https://narikakun.github.io/
