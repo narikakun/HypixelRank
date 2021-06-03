@@ -5,3 +5,9 @@ api-version: 1.16
 authors: [ narikakun ]
 description: Hypixelのランク表示等を変更するプラグインです。
 website: https://narikakun.github.io/
+
+commands:
+  nick:
+    description: ニックネームを設定します。
+  unnick:
+    description: ニックネームの設定を解除します。

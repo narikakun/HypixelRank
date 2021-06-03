@@ -1,0 +1,13 @@
+prefixes:
+  default: "&7%playername"
+  vip: "&a[VIP] %playername&f"
+  vip-plus: "&a[VIP&6+&b] %playername&f"
+  mvp: "&b[MVP] %playername&f"
+  mvp-plus: "&b[MVP&c+&b] %playername&f"
+  mvp-plus-plus: "&6[MVP&c++&6] %playername&f"
+  helper: "&9[HELPER] %playername&f"
+  mod: "&2[MOD] %playername&f"
+  youtube: "&c[&fYOUTUBE&c] %playername&f"
+  admin: "&c[ADMIN] %playername&f"
+  mojang: "&6[MOJANG] %playername&f"
+  owner: "&c[OWNER] %playername&f"
